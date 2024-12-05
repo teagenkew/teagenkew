@@ -23,6 +23,6 @@ If you’re looking for someone who’s passionate about education, accessibilit
 - 🩻 **Healthcare Software**: Tools to support better health outcomes.  
 - ✨ **And so much more!**
 
-#### Let me know if any of these excite you too! 
+#### Let me know if any of these excite you too, and let's work together! 
 
 ---
