@@ -1,4 +1,4 @@
-# 🪐 🧠 🤩 Hey there, welcome! 🦢 🪷 🤓
+# 🪐 🧠 🤩 Hey there, it's good to see you! 🦢 🪷 🤓
 
 ## I'm **Teagen** (she/her) — a software engineer, physicist, mathematician, knitter, communicator, tutor, and all-around problem solver. 📈 
 **Current Project:**  
