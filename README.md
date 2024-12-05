@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🪐 🧠 🤩 Hey there, welcome! 🦢 🪷 🤓
 
-<!--
-**teagenkew/teagenkew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm **Teagen** (she/her) — a software engineer, physicist, mathematician, knitter, communicator, tutor, and all-around problem solver. 📈 
+**Current Project:**  
+📓 **Teagen's Tutoring** — a React + Express app designed to help students excel in physics and math.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive on making the complex feel approachable, creating software that simplifies lives and empowers users, and collaborating to bring meaningful ideas to life.  
+If you’re looking for someone who’s passionate about education, accessibility, and creating intuitive tools, let’s connect!  
+📧 **teagenkew@gmail.com**
+
+<sub>*Psst... I'd also love to talk about physics, math, brains, plants, knitting, or your favourite TV show.* 🤩</sub>
+
+---
+
+### 🌟 **Projects I’m Excited About**  
+
+- 🍎 **Educational Apps**: From bite-sized micro-learning tools to comprehensive platforms.  
+- 🫂 **Small Business Solutions**: E-commerce, advertising, and more.  
+- 👩‍🏫 **Academic Tools**: Interactive data displays and research utilities.  
+- 🧶 **Crafting Apps**: Knitters, crocheters, and makers unite!  
+- 🩻 **Healthcare Software**: Tools to support better health outcomes.  
+- ✨ **And so much more!**
+
+#### Let me know if any of these excite you too! 
+
+---
