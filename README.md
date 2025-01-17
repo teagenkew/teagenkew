@@ -2,7 +2,7 @@
 
 ## I'm **Teagen** (she/her) — a software engineer, physicist, mathematician, knitter, communicator, tutor, and all-around problem solver. 📈 
 **Current Project:**  
-📓 **Teagen's Tutoring** — a React + Express app designed to help students excel in physics and math.
+📓 **Teagen's Tutoring** — a React + Express app designed to help students excel in physics and math. \
 ⏰ **Pomodoro Timer** - classic, right! A next.js app as an introduction to tailwind and typescript
 
 ---
