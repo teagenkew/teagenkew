@@ -3,7 +3,7 @@
 ## I'm **Teagen** (she/her) — a software engineer, physicist, mathematician, knitter, communicator, tutor, and all-around problem solver. 📈 
 **Current Project:**  
 📓 **Teagen's Tutoring** — a React + Express app designed to help students excel in physics and math. \
-💧 **Report Writing Software** - learning how to make a text editor for environmental reports, hoping to use Electron to make a desktop app! 
+📓 **Quality Control Analysis for Linacs** — Utilising the pylinac library to aid in QAing machines \
 
 ---
 
@@ -16,12 +16,10 @@ If you’re looking for someone who’s passionate about education, accessibilit
 ---
 
 ### 🌟 **Projects I’m Excited About**  
-
-- 🍎 **Educational Apps**: From bite-sized micro-learning tools to comprehensive platforms.  
-- 🫂 **Small Business Solutions**: E-commerce, advertising, and more.  
+- 🩻 **Healthcare Software**: Tools to support better health outcomes.  
+- 🍎 **Educational Apps**: From bite-sized micro-learning tools to comprehensive platforms.    
 - 👩‍🏫 **Academic Tools**: Interactive data displays and research utilities.  
 - 🧶 **Crafting Apps**: Knitters, crocheters, and makers unite!  
-- 🩻 **Healthcare Software**: Tools to support better health outcomes.  
 - ✨ **And so much more!**
 
 #### Let me know if any of these excite you too, and let's work together! 
